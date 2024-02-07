@@ -141,7 +141,7 @@ And these will need web3.js and ethereumjs-util.js libraries.
 
 ##### 2. Install web3.js, ethereumjs-util.js , axios.js using npm.
 ```
-npm install web3; npm install ethereumjs-util; npm install axios.js;
+npm install web3; npm install ethereumjs-util; npm install axios;
 ```
 
 ##### 3. Save FeeDelegateDecode.js,FeeDelegateEncode.js and FeeDelegateSampleCode.js in same directory.
